@@ -12,9 +12,10 @@ The repository containing the code for this project is available here: https://g
 </div>
 
 <div style="width: 100%;">
-    <img src=https://github.com/kennedineri/spotify-recommendation-system/blob/main/cluster-images/Artists.png?raw=true" alt="[Number of artisits in the displayed clusters." style="width: 45%; float: left; margin-right: 5%;">
+    <img src="https://github.com/kennedineri/spotify-recommendation-system/blob/main/cluster-images/Artists.png?raw=true" alt="Number of artisits in the displayed clusters." style="width: 45%; float: left; margin-right: 5%;">
     <img src="https://github.com/kennedineri/spotify-recommendation-system/blob/main/cluster-images/Violin%20Plot%20of%20Popularity.png?raw=true" alt="Popularity score of tracks distributed across clusters." style="width: 50%; float: right;">
 </div>
+
 
 <div style="width: 100%;">
     <img src="https://github.com/kennedineri/spotify-recommendation-system/blob/main/cluster-images/Audio%20Feature%20Means.png?raw=true" alt="Audio feature distribution between clusters." style="width: 60%; float: left; margin-right: 5%;">
