@@ -16,7 +16,7 @@ The code for this project is available here: https://github.com/kennedineri/spot
 </div>
 
 <div style="width: 100%;">
-    <img src="https://github.com/kennedineri/spotify-recommendation-system/blob/main/cluster-images/Violin%20Plot%20of%20Popularity.png?raw=true" alt="Popularity score of tracks distributed across clusters." style="width: 60%; float: right;">
+    <img src="https://github.com/kennedineri/spotify-recommendation-system/blob/main/cluster-images/Violin%20Plot%20of%20Popularity.png?raw=true" alt="Popularity score of tracks distributed across clusters." style="width: 60%; float: left;">
 </div>
 
 <div style="width: 100%;">
