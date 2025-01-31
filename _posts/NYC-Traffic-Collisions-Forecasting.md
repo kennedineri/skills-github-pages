@@ -25,6 +25,6 @@ This is evidenced further by evaulating the periodgram and harmonics of the time
 The models used were a regression model with daily dummy variables(right) and a cyclical model (left). The regression model demonstrated a ~10% error in predicting traffic collisions on a holdout sample while the cyclical model had ~14% error in forecasted predictions. 
 
 <div style="width: 100%;">
-    <img src="https://github.com/kennedineri/nyc-traffic-forecasting/blob/main/time-series-images/Daily%20Dummies%20Forecasting%20Model.png?raw=true" alt="Left Image" style="width: 45%; float: left; margin-right: 5%;">
+    <img src="https://github.com/kennedineri/nyc-traffic-forecasting/blob/main/time-series-images/Daily%20Dummies%20Forecasting%20Model.png?raw=true" alt="Left Image" style="width: 46%; float: left; margin-right: 3%;">
     <img src="https://github.com/kennedineri/nyc-traffic-forecasting/blob/main/time-series-images/Cyclical%20Forecasting%20Model.png?raw=true" alt="Right Image" style="width: 45%; float: right;">
 </div>
