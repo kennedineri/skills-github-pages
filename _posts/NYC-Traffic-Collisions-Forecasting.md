@@ -6,6 +6,7 @@ Date: 2025-01-30
 This project is written in R and uses time series data to predict the frequency of traffic collisions in New York City using factors such as temperature, windspeed, precipitation, date, and others. The models created were capable of identfying a cyclical trend in traffic collisions demonstrating that certain days of the week yielded more traffic collisions than others. 
 
 The code for this project is available here: https://github.com/kennedineri/nyc-traffic-forecasting/blob/main/Forecasting_Final.R
+
 The report containg more detailed information and visuals can be accessed here: https://github.com/kennedineri/nyc-traffic-forecasting/blob/main/Forecasting_Final_Project_Report.pdf
 
 
