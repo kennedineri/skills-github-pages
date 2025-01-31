@@ -1,7 +1,7 @@
--------
-Title: SQL Database Management
-Date: 2025-01-30
--------
+---
+title: "SQL Database Management"
+date: 2025-01-30
+---
 
 This project references a SEC financial statements dataset to create a database comprised of 4 tables using SQL programming. The database is then used to create a dimensional model of the tables and demonstrate examples of succesful management by answering multiple queries. These queries are accompanied by visuals capable of producing business value for interested financial institution regulators.
 
