@@ -1,7 +1,7 @@
--------
-Title: Spotify Clustering Recommendation System
-Date: 2025-01-30
--------
+---
+title: "Spotify Clustering Recommendation System"
+date: 2025-01-30
+---
 
 This project contains a recommedation system using a Spotify dataset. Within this project you will find that I applied clustering to the data to separate tracks based on similar audio features including danceability, energy, tempo, genre, and many others. Each cluster is intended to show a large distribution of popularity scores assigned to the tracks within them to ensure all artists and songs are being pushed equally. I incorporated many visuals displaying the differentiation between each cluster. 
 
