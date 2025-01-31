@@ -3,7 +3,7 @@ Title: NYC Traffic Collision Forecasting
 Date: 2025-01-30
 -------
 
-This project is written in R and uses time series data to predict the frequency of traffic collisions in New York City using factors such as temperature, windspeed, precipitation, date, and others. The models created were capable of identfying a cyclical trend in traffic collisions demonstrating that certain days of the week yielded more traffic collisions than others. 
+This project is written in R and uses time series data to predict the frequency of traffic collisions in New York City using factors such as temperature, windspeed, precipitation, date, and others. The models created were capable of anticipating a number of traffic collisions using the cyclical trends demonstrating that certain days of the week yielded more traffic collisions than others. 
 
 The code for this project is available here: https://github.com/kennedineri/nyc-traffic-forecasting/blob/main/Forecasting_Final.R
 
@@ -14,4 +14,10 @@ The present cyclical trend indicated that Day 1 experiences more traffic collisi
 
 <div style="width: 100%;">
     <img src="https://github.com/kennedineri/nyc-traffic-forecasting/blob/time-series-images/Cyclical%20Traffic%20Trend.png?raw=true" alt="Cyclical Trend where Day 1 = Friday" style="width: 50%; float: left; margin-right: 5%;">
+</div>
+
+This is evidenced further by evaulating the periodgram and harmonics of the time series. 
+
+<div style="width: 100%;">
+    <img src="https://github.com/kennedineri/nyc-traffic-forecasting/blob/time-series-images/Cyclical%20Peridogram%20&%20Harmonics.png?raw=true" alt="Periodgram and Harmonics" style="width: 80%; float: left; margin-right: 5%;">
 </div>
