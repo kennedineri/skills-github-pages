@@ -1,4 +1,5 @@
 ---
+layout: default
 title: "NYC Traffic Collision Forecasting"
 date: 2025-01-31
 ---
