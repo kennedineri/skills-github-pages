@@ -1,4 +1,5 @@
 ---
+layout: default
 title: "Spotify Clustering Recommendation System"
 date: 2025-01-30
 ---
