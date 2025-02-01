@@ -1,4 +1,5 @@
 ---
+layout: default
 title: "SQL Database Management"
 date: 2025-01-30
 ---
