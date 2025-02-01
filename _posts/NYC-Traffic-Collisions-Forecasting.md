@@ -1,6 +1,6 @@
 ---
 title: "NYC Traffic Collision Forecasting"
-date: 2025-01-30
+date: 2025-01-31
 ---
 
 This project is written in R and uses time series data to predict the frequency of traffic collisions in New York City using factors such as temperature, windspeed, precipitation, date, and others. The models created were capable of anticipating a number of traffic collisions using the cyclical trends demonstrating that certain days of the week yielded more traffic collisions than others. 
