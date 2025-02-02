@@ -7,3 +7,5 @@ author: Kennedi Neri
 description: Project portfolio page using various data analysis tool including SQL, Python, and R.
 
 permalink: /blog/:title/
+
+include: ["_posts"]
