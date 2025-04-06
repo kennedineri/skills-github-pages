@@ -17,6 +17,7 @@ The code for this project is available here: https://github.com/kennedineri/beat
     <img src="https://github.com/kennedineri/beats-data-analytics-project/blob/ddc8e1a277a526f7d691af86e44b11f2e8fdc879/top-features-for-consumers.png" alt="Left Image" style="width: 60%; float: left; margin-right: 5%;">
 </div>
 
+
 **Introduce 2 price-tiered models for consumers of lower and higher incomes.**
 
 <div style="width: 100%;">
