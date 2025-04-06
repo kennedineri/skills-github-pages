@@ -6,6 +6,7 @@ categories: Python
 ---
 
 This project assesses the feasibility and priorities for Beats by Dre to enter the Hi-Fi wireless speaker market. The included data is a survey with 4,000+ responses regarding consumer use of wireless speakers and scraped Amazon reviews of wireless speakers in the market from 7 different brands. 
+
 The code for this project is available here: https://github.com/kennedineri/beats-data-analytics-project/blob/main/Wireless_Speakers_Market_Analysis.ipynb
 
 ***For this project I made two key recommendations to Beats by Dre:***
