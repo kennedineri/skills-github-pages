@@ -11,14 +11,11 @@ The code for this project is available here: https://github.com/kennedineri/beat
 
 **For this project I made two key recommendations to Beats by Dre:**
 
-<div style="width: 100%;">
-    <img src="https://raw.githubusercontent.com/kennedineri/beats-data-analytics-project/ddc8e1a277a526f7d691af86e44b11f2e8fdc879/top-features-for-consumers.png" alt="Important Features" style="width: 60%; float: right; margin-right: 5%;">
-</div>
-
 1. Incorporate long battery life, exceptional sound quality, and advanced connectivity options.
 
-<div style="width: 100%;">
-    <img src="https://raw.githubusercontent.com/kennedineri/beats-data-analytics-project/ddc8e1a277a526f7d691af86e44b11f2e8fdc879/price-sensitivity.png" alt="Price Sensitivity" style="width: 60%; float: right; margin-right: 5%;">
-</div>
+   ![Important Features](https://raw.githubusercontent.com/kennedineri/beats-data-analytics-project/ddc8e1a277a526f7d691af86e44b11f2e8fdc879/top-features-for-consumers.png)
 
 2. Introduce 2 price-tiered models for consumers of lower and higher incomes.
+
+   ![Price Sensitivity](https://raw.githubusercontent.com/kennedineri/beats-data-analytics-project/ddc8e1a277a526f7d691af86e44b11f2e8fdc879/price-sensitivity.png)
+
